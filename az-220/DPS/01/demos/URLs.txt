@@ -1,0 +1,14 @@
+URLs mentioned in this course
+-----------------------------
+
+Azure regions latency test:
+
+	https://www.azurespeed.com
+	
+
+Source code for the C# console application that registers sample devices:
+	
+	https://github.com/JurgenOnAzure/microsoft-azure-iot-developer-implement-device-provisioning-service-dps
+
+https://github.com/Azure/azure-iot-sdk-c/tree/master/tools/caCertificates
+https://github.com/Azure/azure-iot-sdk-c/tree/main/tools/CACertificates

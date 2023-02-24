@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Learning\\cert\\az-220\\Pluralsight\\devicemessagingcommunication\\01\\demos\\device-upload\\device-upload.csproj": {}
+  },
+  "projects": {
+    "D:\\Learning\\cert\\az-220\\Pluralsight\\devicemessagingcommunication\\01\\demos\\device-upload\\device-upload.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Learning\\cert\\az-220\\Pluralsight\\devicemessagingcommunication\\01\\demos\\device-upload\\device-upload.csproj",
+        "projectName": "device-upload",
+        "projectPath": "D:\\Learning\\cert\\az-220\\Pluralsight\\devicemessagingcommunication\\01\\demos\\device-upload\\device-upload.csproj",
+        "packagesPath": "C:\\Users\\Vaishali.Jain\\.nuget\\packages\\",
+        "outputPath": "D:\\Learning\\cert\\az-220\\Pluralsight\\devicemessagingcommunication\\01\\demos\\device-upload\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Vaishali.Jain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Azure.Devices.Client": {
+              "target": "Package",
+              "version": "[1.33.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
